@@ -1,0 +1,2 @@
+# ffxbot
+MIIRC based bot.
